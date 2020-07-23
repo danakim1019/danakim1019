@@ -1,4 +1,6 @@
 ### Hi there 👋
+## 현재 블로그 수정중에 있습니다.😄
+## Currently revising my blog.😄
 
 <!--
 **danakim1019/danakim1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
