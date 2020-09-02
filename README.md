@@ -2,6 +2,8 @@
 #### 현재 블로그 수정중에 있습니다.😄
 #### Currently revising my blog.😄
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danakim1019)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **danakim1019/danakim1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
