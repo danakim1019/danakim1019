@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danakim1019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdanakim1019.github.io&count_bg=%236D9BDD&title_bg=%23949494&icon=&icon_color=%23E7E7E7&title=Blog+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdanakim1019.github.io&count_bg=%23528BDD&title_bg=%23969696&icon=&icon_color=%23E7E7E7&title=Blog+Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **danakim1019/danakim1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
