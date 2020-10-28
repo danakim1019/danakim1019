@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### 현재 블로그 수정중에 있습니다.😄
 #### Currently revising my blog.😄
+#### 요즘 관심사 : CrowdSimulation, OpenCV, AR, Computer Graphics
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danakim1019)](https://github.com/anuraghazra/github-readme-stats)
 
